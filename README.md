@@ -1,4 +1,6 @@
 # Android RockStarDev
+![](http://f.cl.ly/items/1d2Q1R2e0B3i2S1Y3n2l/Untitled.png)
+
 We are always looking for a rockstar developer to join us on our quest in creating the best platform in Thailand
 
 ## Responsibilities
