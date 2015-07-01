@@ -43,7 +43,7 @@ We are always looking for a rockstar developer to join us on our quest in creati
 
 open an issue with your contact detail or if you are more tradional my contact detail is below
 
-**Name**: Suwitcha Sugthana
-**Email**: suwitcha.s@kaidee.com 
-**Contact Number**: 0909741861  
+**Name**: Suwitcha Sugthana  
+**Email**: suwitcha.s@kaidee.com   
+**Contact Number**: 0909741861    
  
