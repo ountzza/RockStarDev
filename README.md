@@ -1,9 +1,19 @@
-# Android RockStarDev
+# We are hiring !!
+
+Kaidee.com is looking for an awesome developer who love to make cool app. Someone who loves technology - love making new stuffs and love to attack old problem in a different way.  A continuously self improving person with a strong sense of radical thinking.
+
+You must want to work in an agile development environment and with cutting edge of technologies at huge scale then we are the place for you.
+
+We are a continuously learning team on an endless quest of greatness. We believe that classified can make Thai people live better and we are building the best team in Thailand to do that.
+
+
+## Android RockStarDev
+
 ![](http://f.cl.ly/items/1d2Q1R2e0B3i2S1Y3n2l/Untitled.png)
 
 We are always looking for a rockstar developer to join us on our quest in creating the best platform in Thailand
 
-## Responsibilities
+### Responsibilities
 
 - You are awesome !!
 - You are awesome to people around you
@@ -13,7 +23,7 @@ We are always looking for a rockstar developer to join us on our quest in creati
 - Strong in agile development culture
 - experience in test-driven development
 
-## Requirements
+### Requirements
 
 - Have written a cool iOS App that proud to show it to us - live in Apple AppStore store is a plus
 - Development experience with API
