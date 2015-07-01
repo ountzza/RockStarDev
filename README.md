@@ -28,7 +28,10 @@ We are always looking for a rockstar developer to join us on our quest in creati
 - Able to communicate in English
 
 -----
-**Interested?** open your pull request today with your contact details below
+
+###**Interested?** 
+
+open your pull request today with your contact details below
 
 **Name**: John AppleSeed  
 **Email**: J@apple.com  
