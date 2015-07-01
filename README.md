@@ -26,3 +26,11 @@ We are always looking for a rockstar developer to join us on our quest in creati
 - Strong sense of mobile UI/UX is a big plus
 - Some DevOps experience is a plus
 - Able to communicate in English
+
+-----
+**Interested?** open your pull request today with your contact details below
+
+**Name**: John AppleSeed  
+**Email**: J@apple.com  
+**Contact Number**: 9999999999  
+ 
